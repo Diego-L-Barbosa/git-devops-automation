@@ -8,6 +8,10 @@ Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso b
 - GitHub
 - Markdown
 
-## Estrutura do Projeto
+### Estrutura do Projeto
 
+### Adicionando arquivo remotamente
 
+---
+
+## Como trabalhar com Git
